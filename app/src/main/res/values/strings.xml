@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FunnyLeprechaun</string>
+
+    <string name="id">812534746799203</string>
+    <string name="token">2717cf76dbff2febb25772cdd7872e15</string>
+    <string name="coins">Coins:</string>
+    <string name="no_coins">0</string>
+</resources>
